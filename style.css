@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+    background-color: black;
+    padding : 16px;
+    text-align: center;
+    font-family: 'Ballet', 'Times New Roman', sans-serif;
+    font-size: 50px;
+  }
+
+.banner {
+    padding: 10px;
+    display: block;
+    margin:auto;
+    width:50%;
+  }
+
+.description {
+    padding: 10px;
+    background-color: rgb(161, 74, 118);
+    color: white;
+  }
+
+h2 {
+    margin-left: 50px;
+  }
+
+button {
+    padding : 30px 50px;
+  }
+
+.boutons {
+    text-align : center;
+  }
